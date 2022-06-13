@@ -1,1 +1,1 @@
-[cv.md](Curriculum vitae)
+[Curriculum vitae](cv.md)
